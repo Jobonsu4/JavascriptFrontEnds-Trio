@@ -231,6 +231,6 @@ Good luck with your implementation! This project will give you hands-on experien
 <div align="center">
   <h3>Vue.js Implementation</h3>
   <img src="Vue Frontend Screenshot.png" alt="Vue.js DogShelter" width="450" height="450">
-  <p><em>Reactive data binding with declarative templates</em></p>
+  <p><em>Vue 3 global build loaded from CDN</em></p>
 </div>
 
