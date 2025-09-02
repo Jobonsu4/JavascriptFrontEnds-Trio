@@ -216,16 +216,21 @@ src/react/
 - **Document Learning**: Keep notes on what you discover about each approach
 
 Good luck with your implementation! This project will give you hands-on experience with the evolution of JavaScript front-end development.
+<div align="center">
+  <h3>React Implementation</h3>
+  <img src="React Frontend Screenshot.png" alt="React DogShelter" width="450" height="450">
+  <p><em>Npm build with JavaScript and SWC</em></p>
+</div>
 
-React screenshot
-![alt text](<React Frontend Screenshot.png>)
+<div align="center">
+  <h3>Vanilla JavaScript Implementation</h3>
+  <img src="Vanilla Frontend Screenshot.png" alt="Vanilla JS DogShelter" width="450" height="450">
+  <p><em>Pure JavaScript </em></p>
+</div>
 
-
-
-Vue screenshot
-![alt text](<Vue Frontend Screenshot.png>)
-
-
-Vanilla screenshot
-![alt text](<Vanilla Frontend Screenshot.png>)
+<div align="center">
+  <h3>Vue.js Implementation</h3>
+  <img src="Vue Frontend Screenshot.png" alt="Vue.js DogShelter" width="450" height="450">
+  <p><em>Reactive data binding with declarative templates</em></p>
+</div>
 
