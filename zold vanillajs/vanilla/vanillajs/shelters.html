@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dog Shelters</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>🐾 Dog Shelter Management</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="dogs.html">Dogs</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>All Shelters</h2>
+
+    <!-- Search Bar -->
+    <input type="text" id="searchInput" placeholder="Search shelters..." />
+
+    <!-- Add Shelter Form -->
+    <section id="addShelterSection">
+      <h3>Add New Shelter</h3>
+      <form id="addShelterForm">
+        <input type="text" id="shelterName" placeholder="Shelter Name" required />
+        <input type="text" id="shelterLocation" placeholder="Location" required />
+        <input type="email" id="shelterEmail" placeholder="Email" />
+        <input type="text" id="shelterPhone" placeholder="Phone Number" />
+        <button type="submit">Add Shelter</button>
+      </form>
+    </section>
+
+    <!-- Shelter List -->
+    <div id="sheltersContainer" class="grid"></div>
+  </main>
+
+  <!-- Scripts -->
+  <script src="js/config.js"></script>
+  <script src="js/shelters.js"></script>
+</body>
+</html>
+

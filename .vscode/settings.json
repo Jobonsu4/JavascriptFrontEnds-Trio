@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "1_Vanillajs/Application/src/main/java",
+        "Application/src/main/java/com/example/dogshelter"
+    ],
+    "liveServer.settings.port": 5502
+}
